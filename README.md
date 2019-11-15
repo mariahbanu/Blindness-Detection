@@ -1,0 +1,2 @@
+# Blindness-Detection
+Millions of people suffer from diabetic retinopathy, the leading cause of blindness among working aged adults. Detection and prevention of this disease among people living in rural areas, where medical screening is difficult to conduct, needs to be taken care of. The motive of the project is to identify potential patients and detect blindness before it happens. Therefore, the objective was to create an accurate model using deep neural networks, precisely convolutional neural networks, which can accurately classify the severity of diabetic retinopathy.
